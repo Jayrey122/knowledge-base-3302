@@ -1,6 +1,9 @@
 ---
-title: Template for Knowledge Base Docs Websites
+title: Level up STEM
 ---
+![[Silver-STEM-Badge.webp]]
+Welcome to Level Up STEM, where textbook theories become playable realities through interactive simulations and gamified challenges.
+
 ## The index page
 
 This is the index page (`content/index.md`) of your knowledge base docs. It serves as the home page for your website.
@@ -40,3 +43,10 @@ You can use any text editor capable of opening and editing Markdown files.
 
 You can add more pages to your website by adding more Markdown files to the `content/` folder. Take a look at [[Example doc 01]] to learn more.
 
+## Main Categories
+* [[01-foundations-and-theory/index|Foundations and Theory]]
+* [[02-gamification-mechanics/index|Gamification Mechanics]]
+* [[03-simulation-tools/index|Simulation Tools]]
+* [[04-disciplinary-case-studies/index|Disciplinary Case Studies]]
+* [[05-pedagogy-and-assessment/index|Pedagogy and Assessment]]
+* [[06-future-trends/index|Future Trends]]
