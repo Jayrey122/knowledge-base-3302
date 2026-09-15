@@ -12,7 +12,6 @@ A badge should represent a meaningful accomplishment. For example, a student may
 Badges work best when students understand exactly how to earn them. A badge should have a clear goal like completing five challenges or demonstrating a skill successfully. If badges are too easy to earn they may not feel important. If they are too difficult students may loose motivation. 
 
 This image shows achievement badges that can recognize completed goals and developed skills.
-
 ![Colorful digital badges representing achievement, skill development, and completed goals](badges-achievements.jpg)
 ## Recognition and Motivation
 

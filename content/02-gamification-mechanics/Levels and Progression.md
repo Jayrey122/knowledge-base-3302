@@ -8,7 +8,6 @@ Levels and progression systems organize an experience into steps. Students begin
 A level gives students a clear target. After completing one level they unlock the next stage or recieve a new challenge. Progression can help students understand where they are in an assignment or activity and what they need to do next. It also gives them a sense of accomplishment when they finish a step.
 
 This image shows a progression bath in which students complete one level before unlocking the next challenge.
-
 ![A game style pathway with unlocked and locked levels showing progression](levels-in-gamification.webp)
 ## Why Progression Motivates Students
 
