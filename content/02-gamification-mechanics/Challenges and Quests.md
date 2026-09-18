@@ -1,8 +1,9 @@
 
 # Challenges and Quests
 
-Challenges and quests give gamified activities and assignments a purpose. A challange asks users to complete a goal. A quest often adds a story, theme, or series of connected tasks. These elements can make an activity feel more like an adventure than a simple checklist.
+Challenges and quests give gamified activities and assignments a purpose. A challenge asks users to complete a goal. A quest often adds a story, theme, or series of connected tasks. These elements can make an activity feel more like an adventure than a simple checklist.
 
+![[gamification-mathematics.pdf]]
 ## Clear Goals
 
 A successful challenge has a goal that students can understand. It might ask them to solve a problem, complete a task, or reach a certain level of skill. Clear instructions help students know what they need to of and how success will be measured.
