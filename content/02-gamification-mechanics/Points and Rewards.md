@@ -25,6 +25,4 @@ Points should support the main purpose of an activity. If students only care abo
 
 ### Related Notes
 
-- [[Badges and Achievements]]
-- [[Levels and Progression]]
-- [[Challenges and Quests]]
+Points often lead to other types of recognition. [[Badges and Achievements]] explains how accomplishments can be marked with digital badges while [[Levels and Progression]] shows how points can help students move from one stage to the next. [[Leaderboards and Competition]] looks at what can happen when scores are compared with other people.

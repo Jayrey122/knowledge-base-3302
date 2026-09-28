@@ -24,7 +24,4 @@ We can reduce pressure by using team leaderboards, private progress tracking, or
 
 ### Related Notes
 
-- [[Points and Rewards]]
-- [[Badges and Achievements]]
-- [[Levels and Progression]]
-- [[Challenges and Quests]]
+Leaderboards often use the scores discussed in [[Points and Rewards]] and have encouraged students to complete [[Challenges and Quests]]. Levels and badges can sometimes be a better choice when an activity needs to focus more on personal growth than competition. See [[Levels and Progression]] and [[Badges and Achievements]] for those approaches.
