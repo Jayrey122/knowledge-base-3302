@@ -1,2 +1,0 @@
-# Intrinsic and Extrinsic Motivation
-
