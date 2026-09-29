@@ -12,11 +12,11 @@ Start with [[Points and Rewards]] to learn how gamified activities recognize pro
 
 ## Pages in this section
 
-- [[Points and Rewards]]
-- [[Badges and Achievements]]
-- [[Levels and Progression]]
-- [[Challenges and Quests]]
-- [[Leaderboards and Competition]]
+- [[01 Points and Rewards|Points and Rewards]]
+- [[02 Badges and Achievements|Badges and Achievements]]
+- [[03 Challenges and Quests|Challenges and Quests]]
+- [[04 Levels and Progression|Levels and Progression]]
+- [[05 Leaderboards and Competition|Leaderboards and Competition]]
 
 ## Related sections
 

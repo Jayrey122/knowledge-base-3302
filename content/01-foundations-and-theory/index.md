@@ -10,11 +10,11 @@ This section introduces the basic concepts that connect gamification to learning
 
 ## Pages In This Section
 
-- [[What Is Gamification]]
-- [[Game Based Learning vs. Gamification]]
-- [[Motivation and Engagement]]
-- [[Intrinsic and Extrinsic Motivation]]
-- [[Goals, Feedback, and Choice]]
+- [[01 What Is Gamification|What is Gamification]]
+- [[02 Game Based Learning vs. Gamification|Game Based Learning vs. Gamification]]
+- [[03 Motivation and Engagement|Motivation and Engagement]]
+- [[04 Intrinsic and Extrinsic Motivation|Intrinsic and Extrinsic Motivation]]
+- [[05 Goals, Feedback, and Choice|Goals, Feedback, and Choice]]
 
 ## Related Sections
 
