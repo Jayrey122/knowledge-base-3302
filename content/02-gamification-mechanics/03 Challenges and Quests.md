@@ -1,3 +1,7 @@
+---
+title: Challenges and Quests
+Date: 2026-09-29
+---
 
 # Challenges and Quests
 

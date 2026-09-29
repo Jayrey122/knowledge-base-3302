@@ -1,3 +1,7 @@
+---
+title: Levels and Progression
+Date: 2026-09-29
+---
 
 # Levels and Progression
 

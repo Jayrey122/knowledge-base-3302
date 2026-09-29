@@ -1,3 +1,7 @@
+---
+title: Leaderboards and Competition
+Date: 2026-09-29
+---
 
 # Leaderboards and Competition
 
