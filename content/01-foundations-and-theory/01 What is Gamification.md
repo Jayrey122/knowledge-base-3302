@@ -24,4 +24,4 @@ Gamification can make students feel more interested in an activity, but it shoul
 
 ## Related Notes
 
-[[Game Based Learning vs. Gamification]] explains how gamification is different from using a full game for learning. [[Motivation and Engagement]] looks at why goals, feedback, and progress can encourage students to continue participating.
+

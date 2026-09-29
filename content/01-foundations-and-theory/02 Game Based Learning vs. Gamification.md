@@ -24,4 +24,3 @@ The biggest difference is that game based learning uses a real game while gamifi
 
 ## Related Notes
 
-[[What is Gamification]] introduces the main features found in gamified activities. [[Challenges and Quests]] shows how a regular activity can become more game like by giving students a mission or clear goal.

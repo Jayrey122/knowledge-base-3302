@@ -21,4 +21,4 @@ Gamification should not depend only on rewards. If students only care about earn
 
 ## Related Notes
 
-[[Points and Rewards]] focuses on rewards and visible progress. [[Challenges and Quests]] explains how goals and stories can make an activity feel more meaningful and interesting.
+

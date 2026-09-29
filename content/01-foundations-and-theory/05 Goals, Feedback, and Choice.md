@@ -24,4 +24,3 @@ Choice can make students feel more involved in an activity. Students may choose 
 
 ## Related Notes
 
-[[Challenges and Quests]] explains how clear goals can be turned into meaningful missions. [[Levels and Progression]] shows how students can move forward through an activity after completing goals and receiving feedback.

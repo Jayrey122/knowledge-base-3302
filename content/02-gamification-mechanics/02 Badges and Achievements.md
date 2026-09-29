@@ -21,4 +21,4 @@ Badges can motivate students because they show evidence of progress. They may al
 
 ### Related Notes
 
-Badges often work alongside [[Points and Rewards]] since points can help students work towards an achievement. After earning badges students can move through [[Levels and Progression]] or complete new goals in [[Challenges and Quests]].
+

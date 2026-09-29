@@ -24,4 +24,4 @@ Giving students choices can make them feel more involved. They may choose which 
 
 ## Related Notes
 
-[[Points and Rewards]] explains how points can progress visible. [[Levels and Progression]] shows how students can move through smaller steps before reaching a larger goal.
+

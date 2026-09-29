@@ -20,4 +20,4 @@ Challenges can be more motivating when students have choices. They may choose wh
 
 ### Related Notes
 
-Many quests include smaller goals and rewards which connect this page to [[Points and Rewards]] and [[Badges and Achievements]]. Some challenges also include ranking systems so [[Leaderboards and Competition]] is another useful related topic.
+

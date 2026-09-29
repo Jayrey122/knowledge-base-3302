@@ -24,4 +24,4 @@ Levels should guide students instead of labeling them. A student who needs more 
 
 ### Related Notes
 
-Levels give structure to the progress students make through [[Points and Rewards]]. They can also make [[Challenges and Quests]] feel more manageable because students can complete smaller steps before moving to a bigger goal.
+
