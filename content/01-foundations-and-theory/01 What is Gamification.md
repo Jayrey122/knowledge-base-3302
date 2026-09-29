@@ -1,8 +1,8 @@
 ---
-title: What is Gamification
+title: 01 What is Gamification
 Date: 2026-09-28
 ---
-# [[01 What is Gamification|What is Gamification]]
+# What is Gamification
 
 Gamification is the use of game inspired features in activities that are not actually games. These features can include points, badges, levels, challenges, progress bars, and rewards. In a learning environment gamification can make students feel more involved because they have clear goals and can see their progress as they work.
 
