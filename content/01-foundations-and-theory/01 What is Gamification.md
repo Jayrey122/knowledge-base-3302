@@ -1,6 +1,8 @@
 ---
-title: "[[01 What is Gamification| What is Gamification]]"
+title: What is Gamification
 Date: 2026-09-28
+aliases:
+  - 01 What is Gamification
 ---
 # What is Gamification
 
