@@ -22,6 +22,6 @@ Points can show that a task has been completed while badges can recognize skills
 
 Gamification can make students feel more interested in an activity, but it should not take attention away from learning. The game features should support effort, participation, improvement, and problem solving instead of only rewarding students for being fast.
 
-## Related Notes
+### Related Notes
 
 

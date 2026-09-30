@@ -24,4 +24,4 @@ Some math ideas can feel difficult when students only see numbers and symbols. S
 
 > A math simulation gives students a way to see the results of a change instead of only imagining it.
 
-## Related Notes
+### Related Notes

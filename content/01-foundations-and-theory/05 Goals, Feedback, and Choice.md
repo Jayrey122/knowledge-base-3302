@@ -22,5 +22,5 @@ Feedback tells students how they are doing while they are still working. It can 
 
 Choice can make students feel more involved in an activity. Students may choose the order of challenges, the role they take in a group, or the way they complete a task. Choice does not mean there are no rules it means students have some control within the activity.
 
-## Related Notes
+### Related Notes
 

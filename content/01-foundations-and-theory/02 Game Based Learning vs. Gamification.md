@@ -22,5 +22,5 @@ Gamification does not require a full game. A teacher can take a regular activity
 
 The biggest difference is that game based learning uses a real game while gamification uses parts of games. Both approaches can make learning more engaging when they are connected to clear learning goals. The important part is that students are still learning and not only trying to earn rewards.
 
-## Related Notes
+### Related Notes
 

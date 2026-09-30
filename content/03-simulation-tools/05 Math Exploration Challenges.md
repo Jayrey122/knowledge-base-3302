@@ -20,5 +20,5 @@ The final part of the challenge is explaining what happened. Students can descri
 
 > A simulation helps students see a patter, but explaining the pattern is what turns exploration into mathematical learning.
 
-## Related Notes
+### Related Notes
 

@@ -22,6 +22,6 @@ Feedback helps students understand what they are doing well and what they need t
 
 Giving students choices can make them feel more involved. They may choose which challenge to complete first, what role to take in a group, or how to show what they learned. When students have some control they may feel more responsible for their own progress.
 
-## Related Notes
+### Related Notes
 
 

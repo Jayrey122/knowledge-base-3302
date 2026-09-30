@@ -14,7 +14,7 @@ Start with [[01 What are Math Simulations| What are Math Simulations]] to learn 
 
 [[03 Geometry Missions|Geometry Missions]] looks at how students can move shapes, measure angles, and complete challenges using dynamic geometry tools. [[04 Function Quest Levels|Function Quest Levels]] explains how levels can help students understand parent functions and graph transformations. Finally [[05 Math Exploration Challenges|Math Exploration Challenges]] focuses on using prediction, testing, observation, and explanation as part of a gamified math activity.
 
-## Pages in this section
+### Pages in this section
 
 - [[01 What are Math Simulations|What are Math Simulations]]
 - [[02 Graphing Challenges|Graphing Challenges]]
@@ -22,5 +22,5 @@ Start with [[01 What are Math Simulations| What are Math Simulations]] to learn 
 - [[04 Function Quest Levels|Function Quest Levels]]
 - [[05 Math Exploration Challenges|Math Exploration Challenges]]
 
-## Related Sections
+### Related Sections
 

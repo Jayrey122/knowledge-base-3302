@@ -20,5 +20,5 @@ A goal of a function quest is not only to finish a level. Students should unders
 
 A function quest may move from identifying a parent function to changing its position, changing its shape, and creating an equation that matches a target graph.
 
-## Related Notes
+### Related Notes
 

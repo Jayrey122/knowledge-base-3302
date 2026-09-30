@@ -19,6 +19,6 @@ Extrinsic motivation comes from outside rewards. Points, badges, and leaderboard
 
 Gamification should not depend only on rewards. If students only care about earning points they may stop participating when rewards are gone. A strong activity uses rewards to support interest, curiosity, effort, and personal growth instead of replacing those things.
 
-## Related Notes
+### Related Notes
 
 

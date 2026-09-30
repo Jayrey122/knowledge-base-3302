@@ -26,6 +26,6 @@ Challenges can begin with simple linear equations and more towards quadratic, ex
 
 A graphing tool can quickly show whether a student is close to the correct answer. However the student should still explain their thinking. A correct graph is important, but understanding the slope, intercept, and shape of the graph is what make the activity meaningful.
 
-## Related Notes
+### Related Notes
 
 

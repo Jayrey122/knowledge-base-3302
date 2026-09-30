@@ -24,5 +24,5 @@ Students can make a prediction and then test it by moving parts of the shape. Th
 
 > Moving a shape can change its appearance, but it does not change the mathematical relationships that define it.
 
-## Related Notes
+### Related Notes
 
