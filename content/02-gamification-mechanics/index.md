@@ -8,15 +8,15 @@ This section looks at how these mechanics work individually and how they can wor
 
 ## Explore the pages
 
-Start with [[Points and Rewards]] to learn how gamified activities recognize progress. Then read [[Badges and Achievements]] and [[Levels and Progression]] to see how students can track what they have accomplished and move forward. [[Challenges and Quests]] explains how goals and stories can give activities a purpose while [[Leaderboards and Competition]] looks at the positive and negative sides of comparing progress with others.
+Start with [[01-points-and-rewards|Points and Rewards]] to learn how gamified activities recognize progress. Then read [[02-badges-and-achievements|Badges and Achievements]] and [[03-levels-and-progression|Levels and Progression]] to see how students can track what they have accomplished and move forward. [[04-challenges-and-quests|Challenges and Quests]] explains how goals and stories can give activities a purpose while [[05-leaderboards-and-competition|Leaderboards and Competition]] looks at the positive and negative sides of comparing progress with others.
 
 ### Pages in this section
 
-- [[01 Points and Rewards|Points and Rewards]]
-- [[02 Badges and Achievements|Badges and Achievements]]
-- [[03 Challenges and Quests|Challenges and Quests]]
-- [[04 Levels and Progression|Levels and Progression]]
-- [[05 Leaderboards and Competition|Leaderboards and Competition]]
+- [[01-points-and-rewards|Points and Rewards]]
+- [[02-badges-and-achievements|Badges and Achievements]]
+- [[03-levels-and-progression|Levels and Progression]]
+- [[04-challenges-and-quests|Challenges and Quests]]
+- [[05-leaderboards-and-competition|Leaderboards and Competition]]
 
 ### Related sections
 
