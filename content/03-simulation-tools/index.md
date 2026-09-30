@@ -10,17 +10,17 @@ This section looks at hoe math simulations and game like activities can work tog
 
 # Explore the Pages
 
-Start with [[01 What are Math Simulations| What are Math Simulations]] to learn how interactive math tools can make equations, graphs, and shapes easier to explore. [[02 Graphing Challenges|Graphing Challenges]] explains how students can use a graphing simulation to match equations with graphs and work through goal based activities. 
+Start with [[01-what-are-math-simulations| What are Math Simulations]] to learn how interactive math tools can make equations, graphs, and shapes easier to explore. [[02-graphing-challenges|Graphing Challenges]] explains how students can use a graphing simulation to match equations with graphs and work through goal based activities. 
 
-[[03 Geometry Missions|Geometry Missions]] looks at how students can move shapes, measure angles, and complete challenges using dynamic geometry tools. [[04 Function Quest Levels|Function Quest Levels]] explains how levels can help students understand parent functions and graph transformations. Finally [[05 Math Exploration Challenges|Math Exploration Challenges]] focuses on using prediction, testing, observation, and explanation as part of a gamified math activity.
+[[03-geometry-missions|Geometry Missions]] looks at how students can move shapes, measure angles, and complete challenges using dynamic geometry tools. [[04-function-quest-levels|Function Quest Levels]] explains how levels can help students understand parent functions and graph transformations. Finally [[05-math-exploration-challenges|Math Exploration Challenges]] focuses on using prediction, testing, observation, and explanation as part of a gamified math activity.
 
 ### Pages in this section
 
-- [[01 What are Math Simulations|What are Math Simulations]]
-- [[02 Graphing Challenges|Graphing Challenges]]
-- [[03 Geometry Missions|Geometry Missions]]
-- [[04 Function Quest Levels|Function Quest Levels]]
-- [[05 Math Exploration Challenges|Math Exploration Challenges]]
+- [[01-what-are-math-simulations|What are Math Simulations]]
+- [[02-graphing-challenges|Graphing Challenges]]
+- [[03-geometry-missions|Geometry Missions]]
+- [[04-function-quest-levels|Function Quest Levels]]
+- [[05-math-exploration-challenges|Math Exploration Challenges]]
 
 ### Related Sections
 

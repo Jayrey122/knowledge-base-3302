@@ -10,17 +10,17 @@ This section explains how gamified math activities can be planned, assessed, and
 
 ## Explore The Pages
 
-Start with [[01 Designing Gamified Math Lessons|Designing Gamified Math Lessons]] to learn how a teacher can begin with a math goal and then choose game like features that support it. [[02 Feedback and Revision|Feedback and Revision]] explains why students need useful feedback and chances to fix mistakes while they are working.
+Start with [[01-designing-gamified-math-lessons|Designing Gamified Math Lessons]] to learn how a teacher can begin with a math goal and then choose game like features that support it. [[02-feedback-and-revision|Feedback and Revision]] explains why students need useful feedback and chances to fix mistakes while they are working.
 
-[[03 Measuring Math Learning|Measuring Math Learning]] looks at ways teachers can check understanding beyond points and scores. [[04 Accessibility and Inclusion|Accessibility and Inclusion]] explains why activities should give every student a fair chance to participate. [[05 Reflection and Student Voice|Reflection and Student Voice]] focuses on how students can share their strategies, discuss challenges, and explain what they learned.
+[[03-measuring-math-learning|Measuring Math Learning]] looks at ways teachers can check understanding beyond points and scores. [[04-accessibility-and-inclusion|Accessibility and Inclusion]] explains why activities should give every student a fair chance to participate. [[05-reflection-and-student-voice|Reflection and Student Voice]] focuses on how students can share their strategies, discuss challenges, and explain what they learned.
 
 ### Pages In This Section
 
-- [[01 Designing Gamified Math Lessons|Designing Gamified Math Lessons]]
-- [[02 Feedback and Revision|Feedback and Revision]]
-- [[03 Measuring Math Learning|Measuring Math Learning]]
-- [[04 Accessibility and Inclusion|Accessibility and Inclusion]]
-- [[05 Reflection and Student Voice|Reflection and Student Voice]]
+- [[01-designing-gamified-math-lessons|Designing Gamified Math Lessons]]
+- [[02-feedback-and-revision|Feedback and Revision]]
+- [[03-measuring-math-learning|Measuring Math Learning]]
+- [[04-accessibility-and-inclusion|Accessibility and Inclusion]]
+- [[05-reflection-and-student-voice|Reflection and Student Voice]]
 
 ### Related Sections
 

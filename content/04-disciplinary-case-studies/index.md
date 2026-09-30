@@ -10,17 +10,17 @@ This sections looks at examples of gamified math activities that could be used i
 
 ## Explore The Pages
 
-Start with [[01 Algebra Challenge Paths| Algebra Challenge Paths]] to see how students can solve equations, use graphs, and complete checkpoints. [[02 Geometry Escape Missions|Geometry Escape Missions]] explains how geometry puzzles and digital tools can be used to solve clues and investigate shapes.
+Start with [[01-algebra-challenge-paths|Algebra Challenge Paths]] to see how students can solve equations, use graphs, and complete checkpoints. [[02-geometry-escape-missions|Geometry Escape Missions]] explains how geometry puzzles and digital tools can be used to solve clues and investigate shapes.
 
-[[03 Function Quest Adventures|Function Quest Adventures]] shows how students can use graphing simulations to explore parent functions and transformations through levels. [[04 Statistics Data Detectives|Statistics Data Detectives]] focuses on using graphs, tables, and data evidence to solve a mystery. Finally [[05 Precalculus Modeling Missions|Precalculus Modeling Missions]] explains how students can use advanced functions and graphing tools to model real world situations.
+[[03-function-quest-adventures|Function Quest Adventures]] shows how students can use graphing simulations to explore parent functions and transformations through levels. [[04-statistics-data-detectives|Statistics Data Detectives]] focuses on using graphs, tables, and data evidence to solve a mystery. Finally [[05-precalculus-modeling-missions|Precalculus Modeling Missions]] explains how students can use advanced functions and graphing tools to model real world situations.
 
 ### Pages in this section
 
-- [[01 Algebra Challenge Paths|Algebra Challenge Paths]]
-- [[02 Geometry Escape Missions|Geometry Escape Missions]]
-- [[03 Function Quest Adventures|Function Quest Adventures]]
-- [[04 Statistics Data Detectives|Statistics Data Detectives]]
-- [[05 Precalculus Modeling Missions|Precalculus modeling Missions]]
+- [[01-algebra-challenge-paths|Algebra Challenge Paths]]
+- [[02-geometry-escape-missions|Geometry Escape Missions]]
+- [[03-function-quest-adventures|Function Quest Adventures]]
+- [[04-statistics-data-detectives|Statistics Data Detectives]]
+- [[05-precalculus-modeling-missions|Precalculus modeling Missions]]
 
 ### Related Sections
 
