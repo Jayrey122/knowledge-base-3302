@@ -54,4 +54,4 @@ The visuals in this knowledge base were created with Google AI in 2026. they wer
 The visuals are conceptual illustrations only. They do not represent real students, classrooms, data, or actual educational software.
 ## Related Pages
 
-Return to the [[index|Homepage]] to explore the full knowledge base. You can also visit [[content/01-foundations-and-theory/index|index|Foundations and Theory]], [[content/02-gamification-mechanics/index|Gamification Mechanics]], [[content/03-simulation-tools/index|Simulation Tools]], [[content/04-disciplinary-case-studies/index|Disciplinary Case Studies]], [[content/05-pedagogy-and-assessment/index|Pedagogy and Assessment]], and [[content/06-future-trends/index|Future Trends]].
+Return to the [[index|Homepage]] to explore the full knowledge base. You can also visit [[01-foundations-and-theory/index|Foundations and Theory]], [[02-gamification-mechanics/index|Gamification Mechanics]], [[03-simulation-tools/index|Simulation Tools]], [[04-disciplinary-case-studies/index|Disciplinary Case Studies]], [[05-pedagogy-and-assessment/index|Pedagogy and Assessment]], and [[06-future-trends/index|Future Trends]].

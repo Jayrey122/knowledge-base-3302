@@ -20,4 +20,4 @@ Start with [[01-points-and-rewards|Points and Rewards]] to learn how gamified ac
 
 ### Related sections
 
-For background on motivation, goals, and feedback visit [[content/01-foundations-and-theory/index|Foundations and Theory]]. To see how these mechanics can be used with interactive high school math activities visit [[content/03-simulation-tools/index|Simulation Tools]] and [[content/04-disciplinary-case-studies/index|Disciplinary Case Studies]].
+For background on motivation, goals, and feedback visit [[01-foundations-and-theory/index|Foundations and Theory]]. To see how these mechanics can be used with interactive high school math activities visit [[03-simulation-tools/index|Simulation Tools]] and [[04-disciplinary-case-studies/index|Disciplinary Case Studies]].

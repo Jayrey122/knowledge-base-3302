@@ -24,4 +24,4 @@ Start with [[01-designing-gamified-math-lessons|Designing Gamified Math Lessons]
 
 ### Related Sections
 
-To see practical examples of gamified high school math activities visit [[content/04-disciplinary-case-studies/index|Disciplinary Case Studies]]. You can also explore [[content/06-future-trends/index|Future Trends]] to consider how AI, virtual reality, and privacy concerns might affect the planning and assessment of future math activities.
+To see practical examples of gamified high school math activities visit [[04-disciplinary-case-studies/index|Disciplinary Case Studies]]. You can also explore [[06-future-trends/index|Future Trends]] to consider how AI, virtual reality, and privacy concerns might affect the planning and assessment of future math activities.

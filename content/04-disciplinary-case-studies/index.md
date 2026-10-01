@@ -24,4 +24,4 @@ Start with [[01-algebra-challenge-paths|Algebra Challenge Paths]] to see how stu
 
 ### Related Sections
 
-To understand the interactive tools used in these examples visit [[content/03-simulation-tools/index|index|Simulation Tools]]. You can also explore [[content/05-pedagogy-and-assessment/index|Pedagogy and Assessment]] to learn how teachers can plan these activities, assess learning, and support every student.
+To understand the interactive tools used in these examples visit [[03-simulation-tools/index|Simulation Tools]]. You can also explore [[05-pedagogy-and-assessment/index|Pedagogy and Assessment]] to learn how teachers can plan these activities, assess learning, and support every student.

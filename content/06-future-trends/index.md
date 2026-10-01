@@ -24,4 +24,4 @@ Start with [[01-artificial-intelligence-and-math-learning|Artificial Intelligenc
 
 ### Related Sections
 
-To see examples of gamified high school math activities that students can use today visit [[content/04-disciplinary-case-studies/index|Disciplinary Case Studies]]. You can also explore [[content/05-pedagogy-and-assessment/index|Pedagogy and Assessment]] to learn why feedback, accessibility, student voice, and fair assessment should remain important as new technology is introduces.
+To see examples of gamified high school math activities that students can use today visit [[04-disciplinary-case-studies/index|Disciplinary Case Studies]]. You can also explore [[05-pedagogy-and-assessment/index|Pedagogy and Assessment]] to learn why feedback, accessibility, student voice, and fair assessment should remain important as new technology is introduces.

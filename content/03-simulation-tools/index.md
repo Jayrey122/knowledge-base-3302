@@ -24,4 +24,4 @@ Start with [[01-what-are-math-simulations| What are Math Simulations]] to learn 
 
 ### Related Sections
 
-For more information about game features such as goals, levels, and rewards visit [[content/02-gamification-mechanics/index|Gamification Mechanics]]. To see how simulations can be used in Algebra, Geometry, Functions, Statistics, and Precalculus visit [[content/04-disciplinary-case-studies/index|Disciplinary Case Studies]].
+For more information about game features such as goals, levels, and rewards visit [[02-gamification-mechanics/index|Gamification Mechanics]]. To see how simulations can be used in Algebra, Geometry, Functions, Statistics, and Precalculus visit [[04-disciplinary-case-studies/index|Disciplinary Case Studies]].

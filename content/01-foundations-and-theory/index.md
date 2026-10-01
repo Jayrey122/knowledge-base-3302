@@ -23,4 +23,4 @@ Start with [[01-what-is-gamification|What is Gamification]] to learn the main de
 
 ### Related Sections
 
-To learn how the main ideas of gamification are used in activities, visit [[content/02-gamification-mechanics/index|Gamification Mechanics]]. You can also explore [[content/03-simulation-tools/index|Simulation Tools]] to see how interactive math tools can help students visualize graphs, shapes, and patterns.
+To learn how the main ideas of gamification are used in activities, visit [[02-gamification-mechanics/index|Gamification Mechanics]]. You can also explore [[03-simulation-tools/index|Simulation Tools]] to see how interactive math tools can help students visualize graphs, shapes, and patterns.
