@@ -11,17 +11,17 @@ This knowledge base is organized to move from the basic ideas behind gamificatio
 
 ## Explore the Knowledge Base
 
-Begin with [[content/01-foundations-and-theory/index|Foundations and Theory]] to learn what gamification is, how it differs from game based learning, and why motivation, goals, feedback and choice matter.
+Begin with [[01-foundations-and-theory/index|Foundations and Theory]] to learn what gamification is, how it differs from game based learning, and why motivation, goals, feedback and choice matter.
 
-Continue to [[content/02-gamification-mechanics/index|Gamification Mechanics]] to explore points, rewards, badges, achievements, levels, challenges, quests, leaderboards, and competition.
+Continue to [[02-gamification-mechanics/index|Gamification Mechanics]] to explore points, rewards, badges, achievements, levels, challenges, quests, leaderboards, and competition.
 
-Visit [[content/03-simulation-tools/index|Simulation Tools]] to learn how graphing challenges, geometry missions, function quests, and other interactive math activities can make mathematics ideas easier to explore.
+Visit [[03-simulation-tools/index|Simulation Tools]] to learn how graphing challenges, geometry missions, function quests, and other interactive math activities can make mathematics ideas easier to explore.
 
-Read [[content/04-disciplinary-case-studies/index|Discipplinary Case Studies]] for examples of gamified activities in Algebra, Geometry, Functions, Statistics, and Precalculus. 
+Read [[04-disciplinary-case-studies/index|Disciplinary Case Studies]] for examples of gamified activities in Algebra, Geometry, Functions, Statistics, and Precalculus. 
 
-Explore [[content/05-pedagogy-and-assessment/index|Pedagogy and Assessment]] to learn how teachers can design activities, give feedback, measure learning, support accessibility, and include student reflection.
+Explore [[05-pedagogy-and-assessment/index|Pedagogy and Assessment]] to learn how teachers can design activities, give feedback, measure learning, support accessibility, and include student reflection.
 
-Finally visit [[content/06-future-trends/index|Future Trends]] to consider how artificial intelligence, personalized pathways, virtual reality, collaboration tools, privacy, and fairness might influence the future of math learning.
+Finally visit [[06-future-trends/index|Future Trends]] to consider how artificial intelligence, personalized pathways, virtual reality, collaboration tools, privacy, and fairness might influence the future of math learning.
 ## How to Use this Site
 
 Each section includes pages that connect gamification, simulation, and high school mathematics. You can begin with any section, but the pages are designed to build on one another. Follow the internal links at the bottom of the pages to more between related topics.
