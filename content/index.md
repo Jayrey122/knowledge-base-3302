@@ -3,7 +3,7 @@ title: Level up Mathematics
 Date:
 ---
 
-Welcome to **Level Up Mathematics**, a knowledge base about how gamification and simulation tools can make high school math learning more interactive, engaging, and meaningful. Instead of only working through problems on paper students can use goals, challenges, points, levels, feedback, and digital math tools to explore equations, graphs, geometry, functions, data, and mathematical patterns.
+Welcome to **Level Up Mathematics**, a knowledge base about how gamification and simulation tools that can make high school math learning more interactive, engaging, and meaningful. Instead of only working through problems on paper students can use goals, challenges, points, levels, feedback, and digital math tools to explore equations, graphs, geometry, functions, data, and mathematical patterns.
 
 Gamification add game inspired features to a learning activity. A student can earn points for completing a graphing challenge, unlock a new level after explaining a transformation, or work with classmates to solve a geometry mission. Simulations allow students to change values, move points, test equations, and see results in real time. Together these tools can give students more chances to explore math, learn from mistakes, and build confidence.
 
