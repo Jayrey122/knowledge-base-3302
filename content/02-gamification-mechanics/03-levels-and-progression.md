@@ -28,4 +28,5 @@ Levels should guide students instead of labeling them. A student who needs more 
 
 ### Related Notes
 
+[[01-points-and-rewards|Points and Rewards]] explains how small rewards can make progress visible. [[04-challenges-and-quests|Challenges and Quests]] shows how levels can give students a clear path through a larger activity. [[02-personalized-math-pathways|Personalized Math Pathways]] explores how future digital tools can allow students to move through levels at different speeds.
 

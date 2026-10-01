@@ -24,4 +24,5 @@ Giving students choices can make them feel more involved. They may choose which 
 
 ### Related Notes
 
+[[04-intrinsic-and-extrinsic-motivation|Intrinsic and Extrinsic Motivation]] explains the different reasons students may feel motivated to participate. [[01-points-and-rewards|Points and Rewards]] and [[03-levels-and-progression|Levels and Progression]] show how visible progress can encourage students to continue working.
 

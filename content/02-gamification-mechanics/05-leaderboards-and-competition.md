@@ -28,3 +28,4 @@ We can reduce pressure by using team leaderboards, private progress tracking, or
 
 ### Related Notes
 
+[[01-points-and-rewards|Points and Rewards]] explains how scored can be used to show progress. [[04-accessibility-and-inclusion|Accessibility and Inclusion]] discusses why public rankings might not be helpful for every student. [[04-digital-collaboration-and-math-games|Digital Collaboration and Math Games]] shows how team goals can be used instead of focusing only on individual competition.

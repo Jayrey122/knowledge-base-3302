@@ -20,3 +20,6 @@ Escape missions can work well in groups because students can share strategies. O
 
 > A geometry puzzle becomes more meaningful when students explain why a relationship is true instead of only finding a code to unlock.
 
+### Related Notes
+
+[[03-geometry-missions|Geometry Missions]] explains how dynamic geometry tools help students move shapes and test ideas. [[05-leaderboards-and-competition|Leaderboards and Competition]] discusses how group activities can encourage collaboration without making competition the only goal.

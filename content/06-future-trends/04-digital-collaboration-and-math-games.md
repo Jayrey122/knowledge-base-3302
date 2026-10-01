@@ -21,3 +21,7 @@ Digital tools can allow students to see a partner's graph, model, or explanation
 ## Using Competition Carefully
 
 Competition can add energy to a math game, but it should not make students feel embarrassed or left behind. Future activities can use team missions, personal progress, and shared achievements instead of only showing public rankings.
+
+### Related Notes
+
+[[05-leaderboards-and-competition|Leaderboards and Competition]] discusses how students can work with other while using gamification. [[05-reflection-and-student-voice|Reflection and Student Voice]] explains why students should have time to share strategies and discuss what they learned aster a challenge.

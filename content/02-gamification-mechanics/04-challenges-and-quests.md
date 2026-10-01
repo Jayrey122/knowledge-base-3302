@@ -24,4 +24,5 @@ Challenges can be more motivating when students have choices. They may choose wh
 
 ### Related Notes
 
+[[01-points-and-rewards|Points and Rewards]] and [[02-badges-and-achievements|Badges and Achievements]] show how students can receive recognition while completing a mission. [[02-geometry-escape-missions|Geometry Escape Missions]] gives an example of a high school math activity that uses clues, puzzles, and shared a goal.
 

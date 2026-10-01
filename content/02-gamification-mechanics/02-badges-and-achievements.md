@@ -25,4 +25,4 @@ Badges can motivate students because they show evidence of progress. They may al
 
 ### Related Notes
 
-
+[[01-points-and-rewards|Points and Rewards]] explains how points can show day to day progress. [[03-levels-and-progression|Levels and Progression]] shows how badges can mark important milestones as students move through an activity. [[04-challenges-and-quests|Challenges and Quests]] gives students meaningful goals that can lead to achievements.

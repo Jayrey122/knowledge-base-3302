@@ -22,3 +22,4 @@ The final part of the challenge is explaining what happened. Students can descri
 
 ### Related Notes
 
+[[01-what-are-math-simulations|What are Math Simulations]] introduces how simulations can make mathematical changes visible. [[02-feedback-and-revision|Feedback and Revision]] explains why students need chances to revise their thinking after testing an idea.

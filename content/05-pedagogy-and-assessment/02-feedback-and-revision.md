@@ -28,3 +28,7 @@ Students should not only click answers until they find the correct one. Feedback
 - Explaining what needs to change.
 - Revising the work.
 - Checking whether the new answer makes sense.
+
+### Related Notes
+
+[[03-measuring-math-learning|Measuring Math Learning]] explains how teachers can check student understanding while an activity is happening. [[02-graphing-challenges|Graphing Challenges]] provides an example of a simulation activity where students can test, revise, and explain their work.

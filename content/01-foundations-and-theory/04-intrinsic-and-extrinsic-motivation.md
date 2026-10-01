@@ -21,4 +21,4 @@ Gamification should not depend only on rewards. If students only care about earn
 
 ### Related Notes
 
-
+[[03-motivation-and-engagement|Motivation and Engagement]] explains how goals, progress, and feedback can influence participation. [[02-badges-and-achievements|Badges and Achievements]] shows how external recognition can encourage students when it is connected to meaningful effort.

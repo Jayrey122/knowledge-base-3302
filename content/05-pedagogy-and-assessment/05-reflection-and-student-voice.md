@@ -17,3 +17,7 @@ Students can also learn by hearing different strategies. One student can explain
 ## Using Student Feedback
 
 Teachers can ask students whether the challenge was clear, whether the simulation helped them understand, and what part of the activity was confusing. This feedback can help improve future lessons. When students feel heard they may feel more connected to the learning experience. A reflection can be short. Students can write one sentence about what they learned, one question they still have, and one strategy that helped them complete the activity.
+
+### Related Notes
+
+[[02-feedback-and-revision|Feedback and Revision]] explains why students need time to respond to feedback and improve their work. [[04-digital-collaboration-and-math-games|Digital Collaboration and Math Games]] shows how group challenges can help students share strategies and learn from one another.

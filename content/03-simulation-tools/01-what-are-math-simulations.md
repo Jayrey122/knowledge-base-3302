@@ -25,3 +25,5 @@ Some math ideas can feel difficult when students only see numbers and symbols. S
 > A math simulation gives students a way to see the results of a change instead of only imagining it.
 
 ### Related Notes
+
+[[02-graphing-challenges|Graphing Challenges]] shows how a graphing simulation can become a goal based activity. [[05-math-exploration-challenges|Math Exploring Challenges]] explains how students can use simulations to predict, test, observe, and explain mathematical ideas.

@@ -24,3 +24,6 @@ Students should have time to explain what they learned after completing a challe
 
 > A gamified math lesson should begin with a learning goal not with a reward.
 
+### Related Notes
+
+[[05-goals-feedback-and-choice|Goals, Feedback, and Choice]] explains the main ideas that should guide the planning of a gamified activity. [[03-measuring-math-learning|Measuring Math Learning]] shows how teachers can decide whether an activity supported real mathematical understanding.

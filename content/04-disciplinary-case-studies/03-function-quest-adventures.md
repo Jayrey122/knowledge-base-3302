@@ -17,3 +17,7 @@ As students move through the quest they can change numbers in the equation and w
 ## Creating a Final Graph
 
 The final quest can ask students to create an equation that matches a target graph. Students need to use what they learned from earlier levels to decide which transformations are needed. This makes the final challenge feel like a problem solving task instead of a memorization activity.
+
+### Related Notes
+
+[[04-function-quest-levels|Function Quest Levels]] explains how students can explore transformations through a level based simulation. [[01-points-and-rewards|Points and Rewards]] shows how progress can be recognized while students complete each stage.

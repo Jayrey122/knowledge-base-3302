@@ -31,3 +31,6 @@ Teachers and should should decide whether a tool truly supports math learning be
 
 > The future of learning should be more than advanced technology. It should also be fair, safe, and helpful for every student.
 
+### Related Notes
+
+[[04-accessibility-and-inclusion|Accessibility and Inclusion]] explains why every student should have a fair chance to participate in a digital activity. [[01-artificial-intelligence-and-math-learning|Artificial Intelligence and Math Learning]] shows why privacy, accurate feedback, and teacher guidance matter when AI tools are used in math learning.

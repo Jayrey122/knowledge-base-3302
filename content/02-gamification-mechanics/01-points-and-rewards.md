@@ -29,4 +29,5 @@ Points should support the main purpose of an activity. If students only care abo
 
 ### Related Notes
 
+[[02-badges-and-achievements|Badges and Achievements]] explains how a completed task or skill can be recognized with an achievement. [[03-levels-and-progression|Levels and Progression]] shows how points can help students move from one stage of an activity to the next. [[05-leaderboards-and-competition|Leaderboards and Competition]] looks at what can happen when scored are compared with other people.
 

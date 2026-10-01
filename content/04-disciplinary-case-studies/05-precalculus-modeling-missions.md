@@ -20,3 +20,6 @@ The final part of the mission is explaining why the equation fits the situation.
 
 > A strong Mathematical model is not only a graph that looks correct. It is also an explanation of what the graph means.
 
+### Related Notes
+
+[[05-math-exploration-challenges|Math Exploration Challenges]] shows how students can predict, test, observe, and explain using a math simulation. [[01-artificial-intelligence-and-math-learning|Artificial Intelligence and Math Learning]] looks at how future tolls might provide personalized feedback during advances math activities.

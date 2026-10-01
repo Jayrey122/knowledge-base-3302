@@ -24,3 +24,6 @@ AI can support learning, but it cannot replace a teacher. Teachers understand th
 
 > AI can suggest a next step, but teachers help students understand why that step matters.
 
+### Related Notes
+
+[[02-personalized-math-pathways|Personalized Math Pathways]] explains how digital tools allow students to work at different speeds. [[02-feedback-and-revision|Feedback and Revision]] shows why feedback should help students understand and improve instead of only telling them whether an answer is right or wrong.

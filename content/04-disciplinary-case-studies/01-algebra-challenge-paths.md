@@ -23,3 +23,7 @@ A graphing simulation can give students another way to see whether their answer 
 Students may make an error while solving an equation, but the challenge can encourage them to revise their work. Instead of losing all of their progress they can use feedback, fix the issue, and continue to the next part of the path.
 
 > An algebra challenge should reward students for explaining their thinking and improve their work not only for getting the answer first. 
+
+### Related Notes
+
+[[02-graphing-challenges|Graphing Challenges]] explains how students can connect equations to graphs through simulation activities. [[02-feedback-and-revision|Feedback and Revision]] shows how students can learn from mistakes while moving through an algebra challenge.

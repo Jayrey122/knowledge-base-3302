@@ -17,3 +17,7 @@ Gamification can make personalized learning paths more engaging. Students can ch
 ## Staying Connected
 
 Personalized learning should not mean students always work alone. Students can still discuss math ideas, solve problems with partners, and share strategies. The goal is to give students useful support while keeping the classroom connected.
+
+### Related Notes
+
+[[03-levels-and-progression|Levels and Progression]] explains how game like levels can organize learning into smaller steps. [[04-accessibility-and-inclusion|Accessibility and Inclusion]] discusses why students might need different supports, pacing, and ways to participate.

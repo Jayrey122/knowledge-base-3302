@@ -26,3 +26,4 @@ Students can make a prediction and then test it by moving parts of the shape. Th
 
 ### Related Notes
 
+[[02-geometry-escape-missions|Geometry Escape Missions]] gives an example of using geometry puzzles and clues in a gamified activity. [[05-math-exploration-challenges|Math Exploration Challenges]] explains why students should test ideas and explain what they observe in a simulation.

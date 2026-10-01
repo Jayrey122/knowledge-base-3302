@@ -24,3 +24,6 @@ A fair activity recognizes effort, reasoning, creativity, and improvement. Stude
 
 > Good gamification gives students a path to improve instead of making them feel behind.
 
+### Related Notes
+
+[[05-leaderboards-and-competition|Leaderboards and Competition]] explains why public rankings can create pressure for some students. [[05-ethics-privacy-and-fairness|Ethics, Privacy, and Fairness]] looks at how future digital tools should protect students and give everyone a fair chance to participate.

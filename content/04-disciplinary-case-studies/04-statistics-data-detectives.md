@@ -27,3 +27,7 @@ At the end of the activity students can explain their conclusion using the evide
 - Compare measures of center.
 - Look for trends and outliers.
 - Explain their conclusions with evidence.
+
+### Related Notes
+
+[[05-math-exploration-challenges|Math Exploration Challenges]] explains how students can test ideas and explain evidence. [[03-measuring-math-learning|Measuring Math Learning]] shows how teachers can look beyond points and use student explanations to assess understanding.

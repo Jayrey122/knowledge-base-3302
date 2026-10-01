@@ -20,3 +20,6 @@ An explanation can show whether a student understands a result. For example stud
 
 > Finishing a level shows progress, but explaining the math shows understanding.
 
+### Related Notes
+
+[[02-feedback-and-revision|Feedback and Revision]] shows how students can improve while they are working. [[05-reflection-and-student-voice|Reflection and Student Voice]] explains how student explanations and reflections can show what they learned beyond points and scores.

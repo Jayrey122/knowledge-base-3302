@@ -24,4 +24,4 @@ Gamification can make students feel more interested in an activity, but it shoul
 
 ### Related Notes
 
-
+[[02-game-based-learning-vs-gamification|Game Based Learning vs. Gamification]] explains the difference between using a complete game and adding game features to a regular activity. [[01-points-and-rewards|Points and Rewards]] gives an example of one of the most common gamification mechanics.

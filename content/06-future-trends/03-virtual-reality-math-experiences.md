@@ -24,3 +24,6 @@ Virtual reality may be exciting, but it will not be available for every classroo
 
 > New technology is most useful when it makes a difficult idea easier to explore not when it is used only because it looks impressive.
 
+### Related Notes
+
+[[03-geometry-missions|Geometry Missions]] gives an example of students exploring shapes and measurements through an interactive activity. [[01-what-are-math-simulations|What are Math Simulations]] explains how digital tools can make mathematical models more visible.

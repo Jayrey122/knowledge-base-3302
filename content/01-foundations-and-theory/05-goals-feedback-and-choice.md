@@ -24,3 +24,4 @@ Choice can make students feel more involved in an activity. Students may choose 
 
 ### Related Notes
 
+[[02-feedback-and-revision|Feedback and Revision]] explains how useful feedback helps students improve while they are working. [[04-challenges-and-quests|Challenges and Quests]] shows how clear goals can turn a regular activity into a more meaningful mission.

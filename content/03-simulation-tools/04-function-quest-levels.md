@@ -22,3 +22,4 @@ A function quest may move from identifying a parent function to changing its pos
 
 ### Related Notes
 
+[[02-graphing-challenges|Graphing Challenges]] explains how students can match equations and graphs through digital challenges. [[03-levels-and-progression|Levles and Progression]] shoes how game like levels can organize learning from simpler tasks to more difficult ones.

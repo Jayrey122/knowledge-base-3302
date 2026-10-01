@@ -28,4 +28,4 @@ A graphing tool can quickly show whether a student is close to the correct answe
 
 ### Related Notes
 
-
+[[03-function-quest-adventures|Function Quest Adventures]] gives an example of students using graphing simulations to explore parent functions and transformations. [[02-feedback-and-revision|Feedback and Revision]] explains how students can use feedback to improve their graphing work.
